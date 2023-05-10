@@ -1,2 +1,2 @@
 # HTML and CSS Projects
- My HTML and CSS projects
+This repository will contain all my HTML and CSS projects.
