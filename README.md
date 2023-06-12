@@ -1,6 +1,5 @@
 # HTML and CSS Projects
  My HTML and CSS projects
-Projects
 <list>
     <ul link=../project/index.html>Backyard Baseball Site</ul>
     <ul link=../bootstrap4_project/academy_cinema.html>Movie Theater Site</ul>
