@@ -2,8 +2,8 @@
  My HTML and CSS projects
 Projects
 <list>
-    <ul>Backyard Baseball Site</ul>
-    <ul>Movie Theater Site</ul>
+    <ul link=../project/index.html>Backyard Baseball Site</ul>
+    <ul link=../bootstrap4_project/academy_cinema.html>Movie Theater Site</ul>
 </list>
 
 <h2>Backyard Baseball</h2>
